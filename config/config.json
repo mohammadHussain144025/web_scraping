@@ -1,0 +1,12 @@
+{
+  "FSS": {
+    "site_name": "filter_service_supply",
+    "start_urls": [
+      "https://www.filterserviceandsupply.com/diesel-oxidation-catalyst-doc/?page={}",
+      "https://www.filterserviceandsupply.com/skyline-dpf-and-doc-filters/?sort=alphaasc&page={}",
+      "https://www.filterserviceandsupply.com/dpf-gaskets/?sort=alphaasc&page={}",
+      "https://www.filterserviceandsupply.com/dpf-band-and-v-band-clamps/?sort=alphaasc&page={}",
+      "https://www.filterserviceandsupply.com/exhaust-temperature-sensors-egt/?page={}"
+    ]
+  }
+}

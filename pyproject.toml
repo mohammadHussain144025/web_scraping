@@ -1,0 +1,13 @@
+[project]
+name = "jan-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "lxml>=6.0.2",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "python-dotenv>=1.2.1",
+    "selenium>=4.40.0",
+]
